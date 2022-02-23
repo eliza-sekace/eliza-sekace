@@ -1,4 +1,4 @@
-## <p align="center"> Hello, it's me 👋 <p>
+## <p align="center"> Hello, this is me 👋 <p>
 	
 <p align="center"> Software developer from Latvia. Specializing in PHP, but always learning something new! <p>
 
