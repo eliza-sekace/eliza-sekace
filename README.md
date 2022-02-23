@@ -16,12 +16,18 @@
 
  💥 Learning:
 	PHP, MySQL, Laravel, HTML, MVC and other cool stuff <br> <br>
- 🚀 Always eager to learn a lot of new things <br><br>
+ 🚀 Always eager to learn a lot of new things <br>
+	
+Some of latest small projects: <br>
+[Simple login and sign-up system](https://github.com/eliza-sekace/OOP-MYSQL-login-signup) using PHP OOP and MySQL ,<br>
+[Person Registry](https://github.com/eliza-sekace/registry-SQL) using PHP, HTML and MySQL, <br> 
+[VERY simple web page](https://github.com/eliza-sekace/lc-php-practitioner) using PHP OOP, HTML, CSS, MySQL (still working on this one).
+
+
+	
+	
 📥 To contact me:&nbsp; elizasekace@gmail.com &nbsp;&nbsp;| &nbsp;&nbsp; DM &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eliza-sekace)
 &nbsp;
-
-
-
 
 
 <!-- See my [resume](https://pages.github.com/) here!
