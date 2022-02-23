@@ -1,4 +1,6 @@
 ## <p align="center"> Hello, it's me 👋 <p>
+	
+<p align="center"> Software developer from Latvia. Specializing in PHP, but always learning something new! <p>
 
 ###  <p align="center" margin> Currently working with: <p>
 <p align="center" dir="auto"> 
@@ -18,7 +20,17 @@
 📥 To contact me:&nbsp; elizasekace@gmail.com &nbsp;&nbsp;| &nbsp;&nbsp; DM &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eliza-sekace)
 &nbsp;
 
+
+
+
+
 <!-- See my [resume](https://pages.github.com/) here!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliza-sekace&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliza-sekace&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+	
+
  -->
 
 	
