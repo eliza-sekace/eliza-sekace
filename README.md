@@ -20,8 +20,8 @@
 	
 Some of latest small projects: <br>
 [Simple login and sign-up system](https://github.com/eliza-sekace/OOP-MYSQL-login-signup) using PHP OOP and MySQL ,<br>
-[Person Registry](https://github.com/eliza-sekace/registry-SQL) using PHP, HTML and MySQL, <br> 
-[VERY simple web page](https://github.com/eliza-sekace/lc-php-practitioner) using PHP OOP, HTML, CSS, MySQL (still working on this one).
+[Person Registry](https://github.com/eliza-sekace/registry-SQL)- a simple registry form using PHP, HTML and MySQL, <br> 
+[Blackjack](https://github.com/eliza-sekace/codelex-php-course/tree/master/BlackJack-version2)- do I even need to explain this?? using PHP-OOP
 
 
 	
