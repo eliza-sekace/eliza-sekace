@@ -20,7 +20,7 @@
 	
 Some of latest small projects: <br>
 [Simple login and sign-up system](https://github.com/eliza-sekace/OOP-MYSQL-login-signup) using PHP OOP and MySQL ,<br>
-[Person Registry](https://github.com/eliza-sekace/registry-SQL)- a simple registry form using PHP, HTML and MySQL, <br> 
+[Person Registry](https://github.com/eliza-sekace/registry-SQL)- a simple person registry form using PHP, HTML and MySQL, <br> 
 [Blackjack](https://github.com/eliza-sekace/codelex-php-course/tree/master/BlackJack-version2)- do I even need to explain this?? using PHP-OOP
 
 
@@ -28,15 +28,20 @@ Some of latest small projects: <br>
 	
 📥 To contact me:&nbsp; elizasekace@gmail.com &nbsp;&nbsp;| &nbsp;&nbsp; DM &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eliza-sekace)
 &nbsp;
+	<br><br><br>
 
-
-<!-- See my [resume](https://pages.github.com/) here!
-
+<p align="center"> 
+Get my 
+	<a href="https://github.com/eliza-sekace/eliza-sekace/blob/main/CV%20Eliza%20Sekace.pdf">resume </a>
+here!
+<p>
+	
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliza-sekace&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliza-sekace&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-	
+ -->	
 
- -->
+
 
 	
