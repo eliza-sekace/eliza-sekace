@@ -19,8 +19,8 @@
  🚀 Always eager to learn a lot of new things <br>
 	
 Some of latest small projects: <br>
+[Booking-app](https://github.com/eliza-sekace/booking-app)- a simple apartments booking app | using PHP, HTML and MySQL databases, <br> 
 [Simple login and sign-up system](https://github.com/eliza-sekace/OOP-MYSQL-login-signup) using PHP OOP and MySQL ,<br>
-[Person Registry](https://github.com/eliza-sekace/registry-SQL)- a simple person registry form using PHP, HTML and MySQL, <br> 
 [Blackjack](https://github.com/eliza-sekace/codelex-php-course/tree/master/BlackJack-version2)- do I even need to explain this?? using PHP-OOP
 
 
